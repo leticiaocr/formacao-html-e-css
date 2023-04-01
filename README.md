@@ -1,4 +1,4 @@
-# FORMAÇÇÃO HTML E CSS
+# FORMAÇÃO HTML E CSS
 Projeto desenvolvido durante um dos cursos da formação HTML e CSS para projetos web Alura.
  
 
