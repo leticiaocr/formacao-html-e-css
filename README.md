@@ -1,6 +1,14 @@
 # FORMAÇÃO HTML E CSS
 Projeto desenvolvido durante um dos cursos da formação HTML e CSS para projetos web Alura.
- 
+
+## Cursos realizados
+
+* HTML e CSS: ambientes de desenvolvimento, estrutura de arquivos e tags
+* HTML e CSS: Classes, posicionamento e Flexbox
+* HTML e CSS: cabeçalho, footer e variáveis CSS
+* HTML e CSS: trabalhando com responsividade e publicação de projetos
+* HTML e CSS: praticando HTML/CSS
+* HTML e CSS: responsividade com mobile-first
 
 ## Tecnologias
 
